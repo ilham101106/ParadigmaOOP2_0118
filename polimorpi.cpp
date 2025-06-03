@@ -37,7 +37,7 @@ int main(){
     obyek->pesan();
     //a. seseorang ::pesan();
     //b. sesorang ::pesan();
-    return 0;
+    return 0; 
 }
 
 
