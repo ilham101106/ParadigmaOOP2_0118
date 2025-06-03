@@ -14,3 +14,10 @@ public:
         cout<<"Hallo saya Function dari devired Class";
     }
 };
+
+int main(){
+    deviredClass a;
+    a.perkenalan();
+
+    return 0;
+}
